@@ -1,4 +1,7 @@
-# distruct2
+<h2>This project has been updated to version 2.2 and has moved back to the author's website: http://distruct2.popgen.org </h2>
+
+
+# distruct2 - hosted here only for historical purposes
 Implements user defined pop order and colors in 'distruct.py' from fastStructure (Raj et al 2014)
 
 This is a modified version of the distruct.py script originally written by Anil Raj and available at www.github.com/rajanil/fastStructure.  It allows the end user to input the desired population order and color scheme for the output plot.  The color hack was implemented by Karl C. Fetter of University of Vermont.
